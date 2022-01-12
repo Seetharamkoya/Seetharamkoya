@@ -12,7 +12,7 @@
                                               Serverless,
                                               Containerization,
                                               Monitoring tools,
-                                              CI/CD TOOLS,
+                                              CI/CD Tools,
                                               Source Code Management(SCM): GIT & GITHUB
                                               Programming: python & matlab
                                               scripts:.yaml, groovy, Dockerfiles, .tf**
