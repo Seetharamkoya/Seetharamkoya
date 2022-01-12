@@ -15,7 +15,7 @@
                                               CI/CD Tools,
                                               Source Code Management(SCM): GIT & GITHUB
                                               Programming: python & matlab
-                                              scripts:.yaml, groovy, Dockerfiles, .tf**
+                                              scripts:.yaml, .groovy, Dockerfiles, .tf
 - 🌎 I support, the Cloud and DevOps SDLC Process for the agile development. 
 - 💜 Interests: Learning new technologies, studying Blogs & Trouble shooting and fixing bugs.
 
