@@ -3,8 +3,8 @@
 *I livein Germany and workin on AWS Cloud & DevOps*
 
 - 💻 Currently, working on AWS Cloud & DevOps & Open source projects.
-- :office: Prviously, worked on AWS DevOps and CAE & CFD Projects.
-- ⚙️ I Works on some of the tools **AWS Services Compute,
+- :office: Previously, worked on AWS DevOps and CAE & CFD Projects.
+- ⚙️ I Working on some of the tools **AWS Services like Compute,
                                               Storage,
                                               Network&Security,
                                               Database,
