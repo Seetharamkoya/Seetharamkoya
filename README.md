@@ -1,6 +1,6 @@
 ##              Hi there 👋, I'm Seetharam
 
-*I livein Germany and working on AWS Cloud & DevOps & CAE*
+*I live in Germany and working on AWS Cloud & DevOps & CAE*
 
 - 💻 Currently, working on AWS Cloud & DevOps & Open source projects.
 - :office: Previously, worked on AWS DevOps and CAE & CFD Projects.
