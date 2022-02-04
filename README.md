@@ -22,7 +22,7 @@
 
 Find me around the web 🌎:
 - 💼 Connect with me on: [Linkedin](https://www.linkedin.com/in/seetharamaiah-koya/)
-- 🌐 AWS Educate: [Portfolio](https://www.awseducate.com/student/s/profile)
+- 🌐 AWS Educate: [Portfolio](https://www.credly.com/badges/d075ca18-a854-41da-b3a1-057b35fcf090/public_url)
 - 📧 E-Mail: seetharamkoya9@gmail.com
 
 Technologies:
