@@ -4,16 +4,8 @@
 
 - 💻 Currently, working on AWS Cloud & DevOps & Open source projects.
 - :office: Previously, worked on AWS DevOps and CAE & CFD Projects.
-- ⚙️ I Working on some of the tools **AWS Services like Compute,
-                                              Storage,
-                                              Network&Security,
-                                              Database,
-                                              CloudFront,
-                                              Serverless,
-                                              Containerization,
-                                              Monitoring tools,
-                                              CI/CD Tools,
-                                              Source Code Management(SCM): GIT & GITHUB
+- ⚙️ My tech stack are AWS, AZURE clous services and Kubernetes, EKS, ArgoCD,Docker, Terraform, Gitlab CI and GitHub Actions Grafana, prometheus, istio, shell, 
+                                              Source Code Management(SCM): GIT & GITHub       
                                               Programming: python & matlab
                                               scripts:.yaml, .groovy, Dockerfiles and compose, .tf
 - 🌎 I support, the Cloud and DevOps SDLC Process for the agile development. 
