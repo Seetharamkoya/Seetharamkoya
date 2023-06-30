@@ -1,9 +1,9 @@
 ##              Hi there 👋, I'm Seetharam
 
-*I live in Germany and work on AWS AZURE Cloud & DevOps & SRE*
+*I live in Germany and work on AWS, AZURE Cloud & DevOps & SRE*
 
-- 💻 Currently, working on AWS Cloud & DevOps & Open source projects.
-- :office: Previously, worked on AWS DevOps and CAE & CFD Projects.
+- 💻 Currently, Working on AWS , AZURE Cloud & DevOps & Open source projects.
+- :office: Previously, worked on AWS DevOps and CI/CD Projects.
 - ⚙️ My tech stack are AWS, AZURE cloud services and Kubernetes, EKS, ArgoCD, Docker, Terraform, Gitlab CI and GitHub Actions Grafana, Prometheus, istio, shell, 
                                               Source Code Management(SCM): GIT & GitHub       
                                               Programming: python & Matlab
