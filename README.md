@@ -1,19 +1,19 @@
 ##              Hi there 👋, I'm Seetharam
 
-*I live in Germany and working on AWS Cloud & DevOps & CAE*
+*I live in Germany and work on AWS AZURE Cloud & DevOps & SRE*
 
 - 💻 Currently, working on AWS Cloud & DevOps & Open source projects.
 - :office: Previously, worked on AWS DevOps and CAE & CFD Projects.
-- ⚙️ My tech stack are AWS, AZURE clous services and Kubernetes, EKS, ArgoCD,Docker, Terraform, Gitlab CI and GitHub Actions Grafana, prometheus, istio, shell, 
-                                              Source Code Management(SCM): GIT & GITHub       
-                                              Programming: python & matlab
+- ⚙️ My tech stack are AWS, AZURE cloud services and Kubernetes, EKS, ArgoCD, Docker, Terraform, Gitlab CI and GitHub Actions Grafana, Prometheus, istio, shell, 
+                                              Source Code Management(SCM): GIT & GitHub       
+                                              Programming: python & Matlab
                                               scripts:.yaml, .groovy, Dockerfiles and compose, .tf
-- 🌎 I support, the Cloud and DevOps SDLC Process for the agile development. 
-- 💜 Interests: Learning new technologies, studying Blogs & Trouble shooting and fixing bugs.
+- 🌎 I support the Cloud and DevOps SDLC Process for agile development. 
+- 💜 Interests: Learning new technologies, studying Blogs & Troubleshooting and fixing bugs.
 
 
 Find me around the web 🌎:
-- 💼 Connect with me on: [Linkedin](https://www.linkedin.com/in/seetharamaiah-koya/)
+- 💼 Connect with me on [Linkedin](https://www.linkedin.com/in/seetharamaiah-koya/)
 - 🌐 AWS Educate: [Portfolio](https://www.credly.com/badges/d075ca18-a854-41da-b3a1-057b35fcf090/public_url)
 - 📧 E-Mail: seetharamkoya9@gmail.com
 
